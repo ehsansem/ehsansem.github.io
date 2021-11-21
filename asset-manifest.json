@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ehsansem.github.io/static/css/main.59744940.chunk.css",
-    "main.js": "/ehsansem.github.io/static/js/main.86dda1e3.chunk.js",
-    "main.js.map": "/ehsansem.github.io/static/js/main.86dda1e3.chunk.js.map",
-    "runtime-main.js": "/ehsansem.github.io/static/js/runtime-main.fb735008.js",
-    "runtime-main.js.map": "/ehsansem.github.io/static/js/runtime-main.fb735008.js.map",
-    "static/js/2.f276b131.chunk.js": "/ehsansem.github.io/static/js/2.f276b131.chunk.js",
-    "static/js/2.f276b131.chunk.js.map": "/ehsansem.github.io/static/js/2.f276b131.chunk.js.map",
-    "index.html": "/ehsansem.github.io/index.html",
-    "precache-manifest.935fa9c6aa63d4f4b494225cb7e8601f.js": "/ehsansem.github.io/precache-manifest.935fa9c6aa63d4f4b494225cb7e8601f.js",
-    "service-worker.js": "/ehsansem.github.io/service-worker.js",
-    "static/css/main.59744940.chunk.css.map": "/ehsansem.github.io/static/css/main.59744940.chunk.css.map",
-    "static/js/2.f276b131.chunk.js.LICENSE.txt": "/ehsansem.github.io/static/js/2.f276b131.chunk.js.LICENSE.txt",
-    "static/media/hashirshoaeb.png": "/ehsansem.github.io/static/media/hashirshoaeb.32f6b574.png",
-    "static/media/resume.pdf": "/ehsansem.github.io/static/media/resume.87c3b4f1.pdf"
+    "main.css": "/static/css/main.59744940.chunk.css",
+    "main.js": "/static/js/main.2afd20c0.chunk.js",
+    "main.js.map": "/static/js/main.2afd20c0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.f276b131.chunk.js": "/static/js/2.f276b131.chunk.js",
+    "static/js/2.f276b131.chunk.js.map": "/static/js/2.f276b131.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e5ad045a844dfeb343ffb92b46c3080e.js": "/precache-manifest.e5ad045a844dfeb343ffb92b46c3080e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.59744940.chunk.css.map": "/static/css/main.59744940.chunk.css.map",
+    "static/js/2.f276b131.chunk.js.LICENSE.txt": "/static/js/2.f276b131.chunk.js.LICENSE.txt",
+    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/resume.pdf": "/static/media/resume.87c3b4f1.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.fb735008.js",
+    "static/js/runtime-main.554504a0.js",
     "static/js/2.f276b131.chunk.js",
     "static/css/main.59744940.chunk.css",
-    "static/js/main.86dda1e3.chunk.js"
+    "static/js/main.2afd20c0.chunk.js"
   ]
 }
